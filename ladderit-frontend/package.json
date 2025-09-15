@@ -9,12 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@thirdweb-dev/react": "^3.13.0",
-    "@thirdweb-dev/sdk": "^3.10.20",
+    "@thirdweb-dev/react": "^4.9.4",
+    "@thirdweb-dev/sdk": "^4.0.99",
     "eslint": "8.41.0",
     "eslint-config-next": "13.4.3",
     "ethers": "^5.7.2",
-    "next": "13.4.3",
+    "next": "14.2.30",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-toastify": "^9.1.3"
